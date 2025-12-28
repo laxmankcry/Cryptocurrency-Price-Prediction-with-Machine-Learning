@@ -1,4 +1,4 @@
-Add files via upload
+
 Cryptocurrency Price Prediction with Machine Learning
 
 I’ll start the task of Cryptocurrency price prediction by importing the necessary Python libraries and the dataset we need. For this task, I will collect the latest Bitcoin prices data from Yahoo Finance, using the yfinance API. This will help us collect the latest data each time you run this code.
